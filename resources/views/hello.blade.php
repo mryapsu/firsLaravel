@@ -7,6 +7,7 @@
     <title>Anasayfa</title>
 </head>
 <body>
-    Hello Laravel
+    Hello Laravel 
+    Merhaba Github
 </body>
 </html>
